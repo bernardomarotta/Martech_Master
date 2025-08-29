@@ -1,0 +1,129 @@
+{
+  "color": {
+    "brand": {
+      "purple": {
+        "value": "#B400FF"
+      },
+      "blue500": {
+        "value": "#1E90FF"
+      },
+      "blue600": {
+        "value": "#1276FF"
+      }
+    },
+    "light": {
+      "bg": {
+        "value": "#FFFFFF"
+      },
+      "surface": {
+        "value": "#F5F7FB"
+      },
+      "surface2": {
+        "value": "#EBEFF6"
+      },
+      "text": {
+        "value": "#0B0D12"
+      },
+      "text2": {
+        "value": "#2A2F3A"
+      }
+    },
+    "dark": {
+      "bg": {
+        "value": "#0B0D12"
+      },
+      "surface": {
+        "value": "#10131A"
+      },
+      "surface2": {
+        "value": "#151A22"
+      },
+      "text": {
+        "value": "#FFFFFF"
+      },
+      "text2": {
+        "value": "#C9D1E1"
+      }
+    },
+    "gradients": {
+      "hero": {
+        "value": "linear-gradient(90deg, #1E90FF 0%, #B400FF 100%)"
+      }
+    }
+  },
+  "radius": {
+    "lg": {
+      "value": "16px"
+    },
+    "md": {
+      "value": "12px"
+    },
+    "sm": {
+      "value": "10px"
+    }
+  },
+  "shadow": {
+    "light": {
+      "value": "0 8px 24px rgba(20,30,60,.08)"
+    },
+    "dark": {
+      "value": "0 10px 32px rgba(0,0,0,.45)"
+    }
+  },
+  "typography": {
+    "display": {
+      "value": {
+        "fontSize": "64px",
+        "lineHeight": "72px",
+        "fontWeight": "700"
+      }
+    },
+    "h1": {
+      "value": {
+        "fontSize": "48px",
+        "lineHeight": "56px",
+        "fontWeight": "700"
+      }
+    },
+    "h2": {
+      "value": {
+        "fontSize": "36px",
+        "lineHeight": "44px",
+        "fontWeight": "700"
+      }
+    },
+    "h3": {
+      "value": {
+        "fontSize": "28px",
+        "lineHeight": "36px",
+        "fontWeight": "600"
+      }
+    },
+    "lead": {
+      "value": {
+        "fontSize": "20px",
+        "lineHeight": "30px",
+        "fontWeight": "400"
+      }
+    },
+    "body": {
+      "value": {
+        "fontSize": "16px",
+        "lineHeight": "26px",
+        "fontWeight": "400"
+      }
+    },
+    "caption": {
+      "value": {
+        "fontSize": "13px",
+        "lineHeight": "20px",
+        "fontWeight": "400"
+      }
+    }
+  },
+  "spacing": {
+    "base": {
+      "value": "8px"
+    }
+  }
+}

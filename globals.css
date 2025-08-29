@@ -1,0 +1,11 @@
+@tailwind base; @tailwind components; @tailwind utilities;
+:root{
+ --mm-purple-500:#B400FF; --mm-blue-500:#1E90FF; --mm-blue-600:#1276FF;
+ --mm-grad-hero: linear-gradient(90deg,#1E90FF 0%,#B400FF 100%);
+ --mm-bg:#FFFFFF; --mm-surface:#F5F7FB; --mm-surface-2:#EBEFF6; --mm-text:#0B0D12; --mm-text-2:#2A2F3A;
+ --mm-bg-dark:#0B0D12; --mm-surface-dark:#10131A; --mm-surface-2-dark:#151A22; --mm-text-dark:#FFFFFF; --mm-text-2-dark:#C9D1E1;
+}
+html[data-theme="light"]{color-scheme:light; --bg:var(--mm-bg); --surface:var(--mm-surface); --surface-2:var(--mm-surface-2); --text:var(--mm-text); --text-2:var(--mm-text-2);}
+html[data-theme="dark"]{color-scheme:dark; --bg:var(--mm-bg-dark); --surface:var(--mm-surface-dark); --surface-2:var(--mm-surface-2-dark); --text:var(--mm-text-dark); --text-2:var(--mm-text-2-dark);}
+body{background:var(--bg); color:var(--text);}
+.mm-gradient-text{background:var(--mm-grad-hero); -webkit-background-clip:text; background-clip:text; color:transparent;}
