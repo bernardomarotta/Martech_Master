@@ -1,0 +1,4 @@
+Ambiente,Domínio,Observações
+Development,localhost,"Hot reload, lint estrito"
+Staging,staging.martechmaster.com,Dados mascarados; testes e2e; feature flags
+Production,app.martechmaster.com,"Observabilidade, backup, rollback canário"

@@ -1,0 +1,6 @@
+Risco,Prob,Impacto,Mitigação,Owner
+Custos de IA acima do previsto,Média,Alto,"Cache, modelos tiered, limites por usuário, observabilidade de custo",AI Lead
+Baixa adesão inicial ao Fórum,Média,Médio,"AMAs, desafios quinzenais, badges early, destaque na Home",Community
+Licenças de conteúdo externo,Baixa,Alto,"Diretrizes claras, takedown, scanner de links, revisão humana",Legal/Content
+Integração de pagamentos instável,Baixa,Alto,"Webhooks com retry/queue, status reconciliado, fallback manual",Tech Lead
+Escopo de agentes dilatado,Média,Médio,"Priorizar 3 agentes core, DoR/DoD rígidos, feature flags",PM

@@ -1,0 +1,11 @@
+Epic Key,Epic,Goal,Priority
+E-SETUP,Foundations & Infra,"Ambientes, CI/CD, segurança, tokens, observabilidade",P0
+E-AUTH,Autenticação & Assinatura,Login/SSO e Billing Pagar.me,P0
+E-CONT,Conteúdo – Cursos/Materiais/Prompts/Ferramentas,"Schemas CMS, ingestão, listagens e detalhe",P0
+E-SEARCH,Busca & Descoberta,Meilisearch + semântica (pgvector) + taxonomias,P1
+E-FORUM,Fórum & Reputação,"Q&A, discussões, badges, resposta aceita",P1
+E-EVENTS,Eventos,"Calendário, RSVP, ICS, lembretes",P1
+E-AGENTS,Agentes de IA & RAG,"Trend Scout, Campaign Planner, Creative Scorer, SEO Brief, Data QA + RAG/cache",P0
+E-MASTERS,Certificação & Vitrine,"Candidatura, avaliação, open badge e vitrine pública",P1
+E-ADMIN,Admin & Moderação,"Painel admin, filas, permissões, relatórios",P1
+E-LAUNCH,Lançamento & Growth,"SEO, comunicação, eventos de lançamento, tracking e metas",P1

@@ -1,0 +1,7 @@
+Milestone,Target Date,Outcomes,Owner,Status
+Sprint 0 – Setup & Foundations,2025-09-12,"Repo/CI/CD, ambientes, design tokens, baseline analytics",Tech Lead,Planned
+MVP Core – Conteúdo & Assinatura,2025-10-03,"Auth+Billing, CMS schemas, Cursos/Materiais/Prompts/Ferramentas",PM/Tech Lead,Planned
+Comunidade – Fórum & Eventos,2025-10-24,"Q&A, reputação básica, eventos com RSVP/ICS",Community Lead,Planned
+IA – Agentes & RAG,2025-11-14,5 agentes conectados + RAG pgvector + cache,AI Lead,Planned
+Certificação & Vitrine Masters,2025-12-05,"Candidatura, avaliação, badges, vitrine",PM/Admin,Planned
+Lançamento Público MVP,2025-12-12,"Go-Live, eventos de lançamento, plano de comunicação",PM/Marketing,Planned

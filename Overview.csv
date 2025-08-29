@@ -1,0 +1,7 @@
+Campo,Valor
+Projeto,Martech Master – Comunidade & Plataforma Premium
+Data de criação do plano,2025-08-29
+Visão,"Certificar líderes de Martech, conectar com mercado e entregar conhecimento aplicável (cursos, materiais, prompts, agentes)."
+North Star Metric,Weekly Active Members utilizando agentes (WAM-Agents)
+KPIs Chave,"Ativação 7d, MAU, consumo médio, buscas, salvamentos, uso de agentes, NPS, novas assinaturas/mês, MRR/ARR, churn, LTV, leads qualificados, match rate"
+Stack,Next.js + Tailwind; Strapi + Postgres (Neon); Meilisearch + pgvector; Redis/BullMQ; Vercel + Render; S3/Wasabi; PostHog + GA4

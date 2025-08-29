@@ -1,0 +1,4 @@
+Categoria,Checklist
+Definition of Ready,História com valor de negócio; critérios de aceite claros; dependências mapeadas; estimativa; UX pronto; riscos conhecidos
+Definition of Done,Critérios de aceite verificados; testes unit/e2e; acessibilidade AA; logs/telemetria; docs atualizadas; review de segurança; aprovado em staging
+Acessibilidade,Contraste AA; foco visível; navegação por teclado; labels/aria; motion respeita prefers-reduced-motion
