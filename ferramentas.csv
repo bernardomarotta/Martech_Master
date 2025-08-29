@@ -1,0 +1,2 @@
+name,category,url,pricing,trial,integrations,pros,cons
+PostHog,Analytics,https://posthog.com,OSS+Cloud,Yes,"Next.js,Node","Completo","Requer tuning"
