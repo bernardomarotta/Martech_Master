@@ -174,4 +174,4 @@ profileRoutes.get('/activity', async (c) => {
   }
 })
 
-export { profileRoutes }
+export default profileRoutes

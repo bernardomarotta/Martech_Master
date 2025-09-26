@@ -1,4 +1,4 @@
-export const profileHTML = `
+const profileHTML = `
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
@@ -425,3 +425,7 @@ export const profileHTML = `
 </body>
 </html>
 `;
+
+export default function profilePage(c: any) {
+  return c.html(profileHTML);
+}
